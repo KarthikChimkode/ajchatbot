@@ -80,7 +80,7 @@ def post_job(selected_category, selected_service):
 def find_service(user_input):
     """Find best matching services for user's text"""
     service_names = [s["serviceName"] for s in all_services]
-    matches = get_close_matches(user_input, service_names, n=3, cutoff=0.4)
+    matches = get_close_matches(user_input, service_names, n=20, cutoff=0.4)
 
     if not matches:
         print("\n❌ Sorry, I couldn’t find any matching service. Try rephrasing (e.g., 'AC repair', 'bike wash').")
