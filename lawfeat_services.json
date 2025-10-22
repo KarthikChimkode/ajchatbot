@@ -1,0 +1,1346 @@
+[
+  {
+    "id": 28,
+    "name": "Assemble",
+    "services": [
+      {
+        "id": 80,
+        "serviceName": "Chairs & Table assemble",
+        "rate": 400.0
+      },
+      {
+        "id": 3811,
+        "serviceName": "chimney assembly",
+        "rate": 1600.0
+      },
+      {
+        "id": 3726,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 3744,
+        "serviceName": "Crib assemble",
+        "rate": 400.0
+      },
+      {
+        "id": 81,
+        "serviceName": "Dining Table assemble",
+        "rate": 900.0
+      },
+      {
+        "id": 3742,
+        "serviceName": "Gym Equipment assemble",
+        "rate": 500.0
+      },
+      {
+        "id": 82,
+        "serviceName": "Office Furniture assemble",
+        "rate": 700.0
+      },
+      {
+        "id": 3741,
+        "serviceName": "Shoe Rack assemble",
+        "rate": 400.0
+      },
+      {
+        "id": 3740,
+        "serviceName": "TV Mounting",
+        "rate": 200.0
+      },
+      {
+        "id": 3743,
+        "serviceName": "Wardrobe assemble",
+        "rate": 600.0
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Automobile",
+    "services": [
+      {
+        "id": 3736,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 125,
+        "serviceName": "Four Wheeler",
+        "rate": 400.0
+      },
+      {
+        "id": 124,
+        "serviceName": "Three Wheeler",
+        "rate": 500.0
+      },
+      {
+        "id": 123,
+        "serviceName": "Two Wheeler",
+        "rate": 700.0
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Auto Service",
+    "services": [
+      {
+        "id": 3797,
+        "serviceName": "Battery Jumpstart",
+        "rate": 300.0
+      },
+      {
+        "id": 3801,
+        "serviceName": "Bike Puncher Service",
+        "rate": 500.0
+      },
+      {
+        "id": 3804,
+        "serviceName": " Bike Wash",
+        "rate": 400.0
+      },
+      {
+        "id": 3805,
+        "serviceName": "Car AC Repair ",
+        "rate": 12.0
+      },
+      {
+        "id": 3800,
+        "serviceName": "Car Denting",
+        "rate": 500.0
+      },
+      {
+        "id": 3796,
+        "serviceName": "Car Punchers / Flat Tyre Service",
+        "rate": 200.0
+      },
+      {
+        "id": 3806,
+        "serviceName": "Car Service Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 3803,
+        "serviceName": "Car Standard Service",
+        "rate": 400.0
+      },
+      {
+        "id": 3794,
+        "serviceName": "Car Washing",
+        "rate": 200.0
+      },
+      {
+        "id": 3798,
+        "serviceName": "Car Wheel Alignment",
+        "rate": 10.0
+      },
+      {
+        "id": 3802,
+        "serviceName": "Car Windshield Replacement",
+        "rate": 400.0
+      },
+      {
+        "id": 3795,
+        "serviceName": "Two Wheeler - Standard Service",
+        "rate": 400.0
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Carpentry",
+    "services": [
+      {
+        "id": 3722,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 51,
+        "serviceName": "Doors & Windows",
+        "rate": 500.0
+      },
+      {
+        "id": 53,
+        "serviceName": "Dressing Table",
+        "rate": 600.0
+      },
+      {
+        "id": 61,
+        "serviceName": "Furniture Assembling",
+        "rate": 600.0
+      },
+      {
+        "id": 57,
+        "serviceName": "Hardware Installation",
+        "rate": 800.0
+      },
+      {
+        "id": 62,
+        "serviceName": "Musquito Nets",
+        "rate": 700.0
+      },
+      {
+        "id": 60,
+        "serviceName": "Teapoy Table",
+        "rate": 600.0
+      },
+      {
+        "id": 59,
+        "serviceName": "TV Stand",
+        "rate": 500.0
+      },
+      {
+        "id": 3760,
+        "serviceName": "Wooden Flooring",
+        "rate": 200.0
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Catering",
+    "services": [
+      {
+        "id": 3770,
+        "serviceName": "Birthday party catering",
+        "rate": 200.0
+      },
+      {
+        "id": 3771,
+        "serviceName": "Buffet services",
+        "rate": 400.0
+      },
+      {
+        "id": 3730,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 99,
+        "serviceName": "Corporate Catering",
+        "rate": 900.0
+      },
+      {
+        "id": 98,
+        "serviceName": "Household Catering",
+        "rate": 400.0
+      },
+      {
+        "id": 3773,
+        "serviceName": "Non-Veg catering",
+        "rate": 600.0
+      },
+      {
+        "id": 101,
+        "serviceName": "Other Parties",
+        "rate": 700.0
+      },
+      {
+        "id": 3772,
+        "serviceName": "Vegetarian catering",
+        "rate": 500.0
+      },
+      {
+        "id": 100,
+        "serviceName": "Wedding Catering",
+        "rate": 800.0
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Civil Works",
+    "services": [
+      {
+        "id": 139,
+        "serviceName": "Bare Shell Structure",
+        "rate": 600.0
+      },
+      {
+        "id": 135,
+        "serviceName": "Columns And Beams",
+        "rate": 690.0
+      },
+      {
+        "id": 3814,
+        "serviceName": "Compond Wall",
+        "rate": 1258.0
+      },
+      {
+        "id": 3738,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 137,
+        "serviceName": "Foundation",
+        "rate": 550.0
+      },
+      {
+        "id": 136,
+        "serviceName": "Slab",
+        "rate": 780.0
+      },
+      {
+        "id": 140,
+        "serviceName": "Tile Laying",
+        "rate": 500.0
+      },
+      {
+        "id": 138,
+        "serviceName": "Walls",
+        "rate": 345.0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Cleaning",
+    "services": [
+      {
+        "id": 3830,
+        "serviceName": "Air Fryer Cleaning",
+        "rate": 199.0
+      },
+      {
+        "id": 3842,
+        "serviceName": "Cabinet Cleaning",
+        "rate": 499.0
+      },
+      {
+        "id": 3837,
+        "serviceName": "Carpet Cleaning",
+        "rate": 699.0
+      },
+      {
+        "id": 3845,
+        "serviceName": "Ceiling Fan Cleaning",
+        "rate": 149.0
+      },
+      {
+        "id": 3826,
+        "serviceName": "Chimney Cleaning",
+        "rate": 499.0
+      },
+      {
+        "id": 3823,
+        "serviceName": "Curtain Cleaning",
+        "rate": 149.0
+      },
+      {
+        "id": 3841,
+        "serviceName": "Dining Table Cleaning",
+        "rate": 199.0
+      },
+      {
+        "id": 3834,
+        "serviceName": "Dishwasher Cleaning",
+        "rate": 199.0
+      },
+      {
+        "id": 3866,
+        "serviceName": "Disinfection & Sanitization (1–3BHK)",
+        "rate": 799.0
+      },
+      {
+        "id": 3869,
+        "serviceName": "Door & Window Frame Cleaning",
+        "rate": 199.0
+      },
+      {
+        "id": 3935,
+        "serviceName": "ECG at Home ( Per Day )",
+        "rate": 800.0
+      },
+      {
+        "id": 3914,
+        "serviceName": "Electric Chimney Installation",
+        "rate": 1000.0
+      },
+      {
+        "id": 3846,
+        "serviceName": "Exhaust & Ceiling Fan Combo",
+        "rate": 349.0
+      },
+      {
+        "id": 3822,
+        "serviceName": "Exhaust Fan Cleaning",
+        "rate": 89.0
+      },
+      {
+        "id": 3872,
+        "serviceName": "Festival Deep Cleaning Package",
+        "rate": 3499.0
+      },
+      {
+        "id": 3828,
+        "serviceName": "Fridge Cleaning – Double Door",
+        "rate": 299.0
+      },
+      {
+        "id": 3827,
+        "serviceName": "Fridge Cleaning – Single Door",
+        "rate": 199.0
+      },
+      {
+        "id": 3857,
+        "serviceName": "Full Home Cleaning – 1BHK (Furnished)",
+        "rate": 1999.0
+      },
+      {
+        "id": 3856,
+        "serviceName": "Full Home Cleaning – 1BHK (Unfurnished)",
+        "rate": 1499.0
+      },
+      {
+        "id": 3859,
+        "serviceName": "Full Home Cleaning – 2BHK (Furnished)",
+        "rate": 2499.0
+      },
+      {
+        "id": 3858,
+        "serviceName": "Full Home Cleaning – 2BHK (Unfurnished)",
+        "rate": 1999.0
+      },
+      {
+        "id": 3861,
+        "serviceName": "Full Home Cleaning – 3BHK (Furnished)",
+        "rate": 2999.0
+      },
+      {
+        "id": 3860,
+        "serviceName": "Full Home Cleaning – 3BHK (Unfurnished)",
+        "rate": 2499.0
+      },
+      {
+        "id": 3825,
+        "serviceName": "Full Kitchen Deep Cleaning",
+        "rate": 899.0
+      },
+      {
+        "id": 3850,
+        "serviceName": "Garden Cleaning",
+        "rate": 799.0
+      },
+      {
+        "id": 3854,
+        "serviceName": "Garden Deep Care",
+        "rate": 1499.0
+      },
+      {
+        "id": 3851,
+        "serviceName": "Garden Weeding",
+        "rate": 299.0
+      },
+      {
+        "id": 4092,
+        "serviceName": "Gas stove + Chimney Combo",
+        "rate": 300.0
+      },
+      {
+        "id": 3831,
+        "serviceName": "Gas Stove Cleaning",
+        "rate": 149.0
+      },
+      {
+        "id": 3871,
+        "serviceName": "Home Appliance Combo – Fridge + Microwave + Air Fryer",
+        "rate": 499.0
+      },
+      {
+        "id": 3820,
+        "serviceName": "Intensive Bathroom Cleaning",
+        "rate": 399.0
+      },
+      {
+        "id": 3835,
+        "serviceName": "Intensive Bedroom Cleaning",
+        "rate": 499.0
+      },
+      {
+        "id": 3836,
+        "serviceName": "Intensive Hall Cleaning",
+        "rate": 599.0
+      },
+      {
+        "id": 3852,
+        "serviceName": "Lawn Mowing (500 sq.ft)",
+        "rate": 399.0
+      },
+      {
+        "id": 3840,
+        "serviceName": "Mattress Cleaning – Double",
+        "rate": 499.0
+      },
+      {
+        "id": 3839,
+        "serviceName": "Mattress Cleaning – Single",
+        "rate": 299.0
+      },
+      {
+        "id": 3829,
+        "serviceName": "Microwave Cleaning",
+        "rate": 199.0
+      },
+      {
+        "id": 3848,
+        "serviceName": "Office Cleaning – 1001 to 3000 sq.ft",
+        "rate": 1299.0
+      },
+      {
+        "id": 3849,
+        "serviceName": "Office Cleaning – Above 3000 sq.ft",
+        "rate": 1999.0
+      },
+      {
+        "id": 3847,
+        "serviceName": " Office Cleaning – Up to 1000 sq.ft",
+        "rate": 699.0
+      },
+      {
+        "id": 3868,
+        "serviceName": "Septic Tank Cleaning",
+        "rate": 3999.0
+      },
+      {
+        "id": 3838,
+        "serviceName": "Sofa Cleaning",
+        "rate": 499.0
+      },
+      {
+        "id": 3855,
+        "serviceName": "Swimming pool cleaning",
+        "rate": 899.0
+      },
+      {
+        "id": 3844,
+        "serviceName": "Table Fan Cleaning",
+        "rate": 99.0
+      },
+      {
+        "id": 3853,
+        "serviceName": "Tree/Plant Trimming",
+        "rate": 499.0
+      },
+      {
+        "id": 3870,
+        "serviceName": "Upholstery Cleaning (Chairs, Small Sofa)",
+        "rate": 399.0
+      },
+      {
+        "id": 3865,
+        "serviceName": "Villa Cleaning – Furnished",
+        "rate": 5999.0
+      },
+      {
+        "id": 3864,
+        "serviceName": "Villa Cleaning –  Unfurnished",
+        "rate": 4999.0
+      },
+      {
+        "id": 3821,
+        "serviceName": "Wash Basin Cleaning",
+        "rate": 69.0
+      },
+      {
+        "id": 3833,
+        "serviceName": "Washing Machine Cleaning – Front Load",
+        "rate": 320.0
+      },
+      {
+        "id": 3832,
+        "serviceName": "Washing Machine Cleaning – Top Load",
+        "rate": 249.0
+      },
+      {
+        "id": 3867,
+        "serviceName": "Water Tank Cleaning",
+        "rate": 499.0
+      },
+      {
+        "id": 3843,
+        "serviceName": "Window Glass Cleaning",
+        "rate": 59.0
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Computer & IT",
+    "services": [
+      {
+        "id": 3724,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 71,
+        "serviceName": "Desktop Assemble",
+        "rate": 900.0
+      },
+      {
+        "id": 69,
+        "serviceName": "Desktop repairs",
+        "rate": 700.0
+      },
+      {
+        "id": 72,
+        "serviceName": "Firewall Installations",
+        "rate": 500.0
+      },
+      {
+        "id": 75,
+        "serviceName": "IT office setup ",
+        "rate": 400.0
+      },
+      {
+        "id": 74,
+        "serviceName": "Laptop rentals",
+        "rate": 800.0
+      },
+      {
+        "id": 68,
+        "serviceName": "Laptop repairs",
+        "rate": 400.0
+      },
+      {
+        "id": 70,
+        "serviceName": "Macbook repairs",
+        "rate": 800.0
+      },
+      {
+        "id": 73,
+        "serviceName": "Server repairs",
+        "rate": 700.0
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Consultations & Therapy",
+    "services": [
+      {
+        "id": 3941,
+        "serviceName": "Doctor Home Visit",
+        "rate": 1200.0
+      },
+      {
+        "id": 3928,
+        "serviceName": "Mental Health Counseling",
+        "rate": 800.0
+      },
+      {
+        "id": 3931,
+        "serviceName": "Nutrition Counseling",
+        "rate": 700.0
+      },
+      {
+        "id": 3926,
+        "serviceName": "Physiotherapy",
+        "rate": 1000.0
+      },
+      {
+        "id": 3927,
+        "serviceName": "Speech Therapy",
+        "rate": 1200.0
+      },
+      {
+        "id": 3942,
+        "serviceName": "Telemedicine Consultation",
+        "rate": 700.0
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Dj & Music",
+    "services": []
+  },
+  {
+    "id": 43,
+    "name": "Documentation",
+    "services": [
+      {
+        "id": 3759,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 3758,
+        "serviceName": "Government Form Filling Services",
+        "rate": 500.0
+      },
+      {
+        "id": 3757,
+        "serviceName": "Passport Application Help",
+        "rate": 400.0
+      },
+      {
+        "id": 3756,
+        "serviceName": "Visa & Immigration Assistance",
+        "rate": 200.0
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Driving and Licence",
+    "services": [
+      {
+        "id": 95,
+        "serviceName": "Car Driving Lessons with Licence",
+        "rate": 800.0
+      },
+      {
+        "id": 97,
+        "serviceName": "Car Driving Lessons without Licence",
+        "rate": 800.0
+      },
+      {
+        "id": 3729,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 96,
+        "serviceName": "Four Wheeler Licence",
+        "rate": 7000.0
+      },
+      {
+        "id": 94,
+        "serviceName": "Two Wheeler Licence",
+        "rate": 920.0
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Electrical",
+    "services": [
+      {
+        "id": 8,
+        "serviceName": "AC Repair",
+        "rate": 900.0
+      },
+      {
+        "id": 29,
+        "serviceName": "Ceiling Fan fitting",
+        "rate": 200.0
+      },
+      {
+        "id": 3717,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 6,
+        "serviceName": "Fan Fitting",
+        "rate": 500.0
+      },
+      {
+        "id": 27,
+        "serviceName": "Generator repair",
+        "rate": 800.0
+      },
+      {
+        "id": 28,
+        "serviceName": "Geyser Installation",
+        "rate": 700.0
+      },
+      {
+        "id": 31,
+        "serviceName": "Lightings",
+        "rate": 500.0
+      },
+      {
+        "id": 32,
+        "serviceName": "Panel Boards",
+        "rate": 700.0
+      },
+      {
+        "id": 26,
+        "serviceName": "Switches and Sockets",
+        "rate": 900.0
+      },
+      {
+        "id": 7,
+        "serviceName": "Switch Fitting",
+        "rate": 300.0
+      },
+      {
+        "id": 30,
+        "serviceName": "Wiring",
+        "rate": 400.0
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Events and Parties",
+    "services": [
+      {
+        "id": 3787,
+        "serviceName": "Catering",
+        "rate": 200.0
+      },
+      {
+        "id": 3793,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 3792,
+        "serviceName": "Decoration service",
+        "rate": 400.0
+      },
+      {
+        "id": 3788,
+        "serviceName": "Engagement Event",
+        "rate": 300.0
+      },
+      {
+        "id": 3785,
+        "serviceName": "Event Planning",
+        "rate": 200.0
+      },
+      {
+        "id": 3789,
+        "serviceName": "Music and DJ Setup",
+        "rate": 600.0
+      },
+      {
+        "id": 3791,
+        "serviceName": "Venue booking assistance",
+        "rate": 500.0
+      },
+      {
+        "id": 3790,
+        "serviceName": "Video & Photography",
+        "rate": 600.0
+      },
+      {
+        "id": 3786,
+        "serviceName": "Wedding planning",
+        "rate": 400.0
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Furnishing",
+    "services": [
+      {
+        "id": 49,
+        "serviceName": "Blinds",
+        "rate": 900.0
+      },
+      {
+        "id": 50,
+        "serviceName": "Carpets & Rugs",
+        "rate": 400.0
+      },
+      {
+        "id": 3721,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 47,
+        "serviceName": "Curtains",
+        "rate": 700.0
+      },
+      {
+        "id": 48,
+        "serviceName": "Sofa making",
+        "rate": 800.0
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Home Appliances",
+    "services": [
+      {
+        "id": 4094,
+        "serviceName": "AC Gas Refilling",
+        "rate": 600.0
+      },
+      {
+        "id": 3873,
+        "serviceName": "AC Repair",
+        "rate": 4999.0
+      },
+      {
+        "id": 3904,
+        "serviceName": "Air Fryer Repair",
+        "rate": 3499.0
+      },
+      {
+        "id": 3898,
+        "serviceName": "Air Purifier Repair",
+        "rate": 3999.0
+      },
+      {
+        "id": 3887,
+        "serviceName": "Blender Repair",
+        "rate": 1999.0
+      },
+      {
+        "id": 3885,
+        "serviceName": "Coffee Maker Repair",
+        "rate": 3499.0
+      },
+      {
+        "id": 3892,
+        "serviceName": "Deep Freezer Repair",
+        "rate": 4999.0
+      },
+      {
+        "id": 3909,
+        "serviceName": "Dishwasher Installation",
+        "rate": 2000.0
+      },
+      {
+        "id": 3880,
+        "serviceName": "Dishwasher Repair",
+        "rate": 4499.0
+      },
+      {
+        "id": 3878,
+        "serviceName": "Electrical Gas Stove Repair",
+        "rate": 2499.0
+      },
+      {
+        "id": 3917,
+        "serviceName": "Electric Chimney Installation",
+        "rate": 1000.0
+      },
+      {
+        "id": 3894,
+        "serviceName": "Electric Chimney Repair",
+        "rate": 4499.0
+      },
+      {
+        "id": 3900,
+        "serviceName": "Electric Grill Repair",
+        "rate": 2299.0
+      },
+      {
+        "id": 3901,
+        "serviceName": "Electric Heater Repair",
+        "rate": 3499.0
+      },
+      {
+        "id": 3890,
+        "serviceName": "Electric Iron Box Repair",
+        "rate": 1299.0
+      },
+      {
+        "id": 3884,
+        "serviceName": "Electric Kettle Repair",
+        "rate": 699.0
+      },
+      {
+        "id": 3912,
+        "serviceName": "Exhaust Fan Installation",
+        "rate": 500.0
+      },
+      {
+        "id": 3883,
+        "serviceName": "Exhaust Fan Repair",
+        "rate": 999.0
+      },
+      {
+        "id": 3897,
+        "serviceName": "Food Processor Repair",
+        "rate": 3999.0
+      },
+      {
+        "id": 3915,
+        "serviceName": "Garbage Disposal Installation",
+        "rate": 1000.0
+      },
+      {
+        "id": 3895,
+        "serviceName": "Garbage Disposal Repair",
+        "rate": 3999.0
+      },
+      {
+        "id": 3877,
+        "serviceName": "Gas Stove Repair",
+        "rate": 1699.0
+      },
+      {
+        "id": 3881,
+        "serviceName": "Geyser Repair",
+        "rate": 3199.0
+      },
+      {
+        "id": 3893,
+        "serviceName": "Ice Maker Repair",
+        "rate": 4499.0
+      },
+      {
+        "id": 3876,
+        "serviceName": "Microwave Oven Repair",
+        "rate": 2499.0
+      },
+      {
+        "id": 3888,
+        "serviceName": "Mixer Grinder Repair",
+        "rate": 2299.0
+      },
+      {
+        "id": 3906,
+        "serviceName": "Pool Pump Repair",
+        "rate": 4999.0
+      },
+      {
+        "id": 3903,
+        "serviceName": "Portable AC Repair",
+        "rate": 4999.0
+      },
+      {
+        "id": 3874,
+        "serviceName": "Refrigerator Repair",
+        "rate": 4999.0
+      },
+      {
+        "id": 3896,
+        "serviceName": "Rice Cooker Repair",
+        "rate": 1299.0
+      },
+      {
+        "id": 3905,
+        "serviceName": "Robot Vacuum Repair",
+        "rate": 4999.0
+      },
+      {
+        "id": 3916,
+        "serviceName": "Smart TV Installation",
+        "rate": 1500.0
+      },
+      {
+        "id": 3907,
+        "serviceName": "Split AC Installation",
+        "rate": 2000.0
+      },
+      {
+        "id": 3886,
+        "serviceName": "Toaster Repair",
+        "rate": 1199.0
+      },
+      {
+        "id": 3879,
+        "serviceName": "Vacuum Cleaner Repair",
+        "rate": 2299.0
+      },
+      {
+        "id": 3908,
+        "serviceName": "Washing Machine Installation",
+        "rate": 1000.0
+      },
+      {
+        "id": 4095,
+        "serviceName": "Washing Machine Repair - Front Load",
+        "rate": 120.0
+      },
+      {
+        "id": 3875,
+        "serviceName": "Washing Machine Repair - Top Load",
+        "rate": 3999.0
+      },
+      {
+        "id": 3899,
+        "serviceName": "Water Dispenser Repair",
+        "rate": 3499.0
+      },
+      {
+        "id": 3913,
+        "serviceName": "Water Purifier Installation",
+        "rate": 1000.0
+      },
+      {
+        "id": 3889,
+        "serviceName": "Water Purifier Repair",
+        "rate": 3499.0
+      },
+      {
+        "id": 4093,
+        "serviceName": "Window AC Installation",
+        "rate": 200.0
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Home Automation",
+    "services": [
+      {
+        "id": 4044,
+        "serviceName": "Motion Sensor - Device with Installation",
+        "rate": 1500.0
+      },
+      {
+        "id": 4045,
+        "serviceName": "Motion Sensor Repair",
+        "rate": 400.0
+      },
+      {
+        "id": 4057,
+        "serviceName": "Smart Alarm System Repair",
+        "rate": 800.0
+      },
+      {
+        "id": 4065,
+        "serviceName": "Smart Curtains / Blinds - Device with Installation",
+        "rate": 11000.0
+      },
+      {
+        "id": 4066,
+        "serviceName": "Smart Curtains Repair",
+        "rate": 1500.0
+      },
+      {
+        "id": 4050,
+        "serviceName": "Smart Door Lock - Device with Installation",
+        "rate": 7684.0
+      },
+      {
+        "id": 4051,
+        "serviceName": "Smart Door Lock Repair",
+        "rate": 1200.0
+      },
+      {
+        "id": 4047,
+        "serviceName": "Smart Fan Controller Repair",
+        "rate": 500.0
+      },
+      {
+        "id": 4067,
+        "serviceName": "Smart Garage Door Opener - Device with Installation",
+        "rate": 10000.0
+      },
+      {
+        "id": 4068,
+        "serviceName": "Smart Garage Door Opener Repair",
+        "rate": 1200.0
+      },
+      {
+        "id": 4070,
+        "serviceName": "Smart Irrigation Repair",
+        "rate": 1000.0
+      },
+      {
+        "id": 4069,
+        "serviceName": "Smart Irrigation System - Device with Installation",
+        "rate": 9000.0
+      },
+      {
+        "id": 4063,
+        "serviceName": "Smart Pool Controller (Device + Installation)",
+        "rate": 17500.0
+      },
+      {
+        "id": 4064,
+        "serviceName": "Smart Pool Controller Repair",
+        "rate": 1200.0
+      },
+      {
+        "id": 4071,
+        "serviceName": "Smart Smoke / CO Detector - Device with Installation",
+        "rate": 2200.0
+      },
+      {
+        "id": 4072,
+        "serviceName": "Smart Smoke / CO Detector Repair",
+        "rate": 400.0
+      },
+      {
+        "id": 4048,
+        "serviceName": "Smart Thermostat (Device + Installation)",
+        "rate": 18000.0
+      },
+      {
+        "id": 4049,
+        "serviceName": "Smart Thermostat Repair",
+        "rate": 1000.0
+      },
+      {
+        "id": 4054,
+        "serviceName": "Smart Video Doorbell - Device with Installation",
+        "rate": 6200.0
+      },
+      {
+        "id": 4055,
+        "serviceName": "Smart Video Doorbell Repair",
+        "rate": 800.0
+      },
+      {
+        "id": 4052,
+        "serviceName": "Surveillance Camera - Device and Installation",
+        "rate": 3000.0
+      },
+      {
+        "id": 4053,
+        "serviceName": "Surveillance Camera Repair",
+        "rate": 800.0
+      },
+      {
+        "id": 4062,
+        "serviceName": "Voice Assistant Setup",
+        "rate": 1000.0
+      },
+      {
+        "id": 4039,
+        "serviceName": "Water Leak Detector Repair",
+        "rate": 300.0
+      },
+      {
+        "id": 4038,
+        "serviceName": "Water Tank Fill Detector - Device with Installation",
+        "rate": 2000.0
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Home Diagnostics",
+    "services": [
+      {
+        "id": 3945,
+        "serviceName": "ECG at Home",
+        "rate": 800.0
+      },
+      {
+        "id": 3937,
+        "serviceName": "Ultrasound at Home",
+        "rate": 2000.0
+      },
+      {
+        "id": 3936,
+        "serviceName": "X-ray at Home",
+        "rate": 1000.0
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Home Theater",
+    "services": [
+      {
+        "id": 4086,
+        "serviceName": "1080p Projector Installation",
+        "rate": 120000.0
+      },
+      {
+        "id": 4081,
+        "serviceName": "4k Projector Installation",
+        "rate": 120000.0
+      },
+      {
+        "id": 4075,
+        "serviceName": "5.1 Surround Sound Setup",
+        "rate": 45000.0
+      },
+      {
+        "id": 4076,
+        "serviceName": "7.1 Surround Sound Setup",
+        "rate": 70000.0
+      },
+      {
+        "id": 4091,
+        "serviceName": "Calibration Recheck & Repair",
+        "rate": 10000.0
+      },
+      {
+        "id": 4077,
+        "serviceName": "Dolby Atmos Setup",
+        "rate": 150000.0
+      },
+      {
+        "id": 4084,
+        "serviceName": "Motorized Projector Screen Setup",
+        "rate": 50000.0
+      },
+      {
+        "id": 4089,
+        "serviceName": "Motorized Screen Repair",
+        "rate": 20000.0
+      },
+      {
+        "id": 4088,
+        "serviceName": "Projector Repair Service",
+        "rate": 30000.0
+      },
+      {
+        "id": 4083,
+        "serviceName": "Projector Screen Installation",
+        "rate": 30000.0
+      },
+      {
+        "id": 4085,
+        "serviceName": "Screen Calibration for 1080p/4K",
+        "rate": 20000.0
+      },
+      {
+        "id": 4078,
+        "serviceName": "Sound Calibration for 5.1/7.1/Atmos",
+        "rate": 15000.0
+      },
+      {
+        "id": 4087,
+        "serviceName": "Surround Sound System Repair",
+        "rate": 25000.0
+      },
+      {
+        "id": 4090,
+        "serviceName": "Wireless Speaker Repair",
+        "rate": 18000.0
+      },
+      {
+        "id": 4079,
+        "serviceName": "Wireless Surround Sound Setup",
+        "rate": 50000.0
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Interior Designing",
+    "services": [
+      {
+        "id": 3731,
+        "serviceName": "Consultation",
+        "rate": 99.0
+      },
+      {
+        "id": 104,
+        "serviceName": "Farm Houses",
+        "rate": 500.0
+      },
+      {
+        "id": 108,
+        "serviceName": "Function Halls",
+        "rate": 600.0
+      },
+      {
+        "id": 103,
+        "serviceName": "Hotels",
+        "rate": 700.0
+      },
+      {
+        "id": 109,
+        "serviceName": "Office Spaces",
+        "rate": 600.0
+      },
+      {
+        "id": 102,
+        "serviceName": "Residential",
+        "rate": 800.0
+      }
+    ]
+  }
+]

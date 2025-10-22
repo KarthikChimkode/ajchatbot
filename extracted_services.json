@@ -1,0 +1,346 @@
+[
+  {
+    "name": "Assemble",
+    "services": [
+      "Chairs & Table assemble",
+      "chimney assembly",
+      "Consultation",
+      "Crib assemble",
+      "Dining Table assemble",
+      "Gym Equipment assemble",
+      "Office Furniture assemble",
+      "Shoe Rack assemble",
+      "TV Mounting",
+      "Wardrobe assemble"
+    ]
+  },
+  {
+    "name": "Automobile",
+    "services": [
+      "Consultation",
+      "Four Wheeler",
+      "Three Wheeler",
+      "Two Wheeler"
+    ]
+  },
+  {
+    "name": "Auto Service",
+    "services": [
+      "Battery Jumpstart",
+      "Bike Puncher Service",
+      " Bike Wash",
+      "Car AC Repair ",
+      "Car Denting",
+      "Car Punchers / Flat Tyre Service",
+      "Car Service Consultation",
+      "Car Standard Service",
+      "Car Washing",
+      "Car Wheel Alignment",
+      "Car Windshield Replacement",
+      "Two Wheeler - Standard Service"
+    ]
+  },
+  {
+    "name": "Carpentry",
+    "services": [
+      "Consultation",
+      "Doors & Windows",
+      "Dressing Table",
+      "Furniture Assembling",
+      "Hardware Installation",
+      "Musquito Nets",
+      "Teapoy Table",
+      "TV Stand",
+      "Wooden Flooring"
+    ]
+  },
+  {
+    "name": "Catering",
+    "services": [
+      "Birthday party catering",
+      "Buffet services",
+      "Consultation",
+      "Corporate Catering",
+      "Household Catering",
+      "Non-Veg catering",
+      "Other Parties",
+      "Vegetarian catering",
+      "Wedding Catering"
+    ]
+  },
+  {
+    "name": "Civil Works",
+    "services": [
+      "Bare Shell Structure",
+      "Columns And Beams",
+      "Compond Wall",
+      "Consultation",
+      "Foundation",
+      "Slab",
+      "Tile Laying",
+      "Walls"
+    ]
+  },
+  {
+    "name": "Cleaning",
+    "services": [
+      "Air Fryer Cleaning",
+      "Cabinet Cleaning",
+      "Carpet Cleaning",
+      "Ceiling Fan Cleaning",
+      "Chimney Cleaning",
+      "Curtain Cleaning",
+      "Dining Table Cleaning",
+      "Dishwasher Cleaning",
+      "Disinfection & Sanitization (1\u20133BHK)",
+      "Door & Window Frame Cleaning",
+      "ECG at Home ( Per Day )",
+      "Electric Chimney Installation",
+      "Exhaust & Ceiling Fan Combo",
+      "Exhaust Fan Cleaning",
+      "Festival Deep Cleaning Package",
+      "Fridge Cleaning \u2013 Double Door",
+      "Fridge Cleaning \u2013 Single Door",
+      "Full Home Cleaning \u2013 1BHK (Furnished)",
+      "Full Home Cleaning \u2013 1BHK (Unfurnished)",
+      "Full Home Cleaning \u2013 2BHK (Furnished)",
+      "Full Home Cleaning \u2013 2BHK (Unfurnished)",
+      "Full Home Cleaning \u2013 3BHK (Furnished)",
+      "Full Home Cleaning \u2013 3BHK (Unfurnished)",
+      "Full Kitchen Deep Cleaning",
+      "Garden Cleaning",
+      "Garden Deep Care",
+      "Garden Weeding",
+      "Gas stove + Chimney Combo",
+      "Gas Stove Cleaning",
+      "Home Appliance Combo \u2013 Fridge + Microwave + Air Fryer",
+      "Intensive Bathroom Cleaning",
+      "Intensive Bedroom Cleaning",
+      "Intensive Hall Cleaning",
+      "Lawn Mowing (500 sq.ft)",
+      "Mattress Cleaning \u2013 Double",
+      "Mattress Cleaning \u2013 Single",
+      "Microwave Cleaning",
+      "Office Cleaning \u2013 1001 to 3000 sq.ft",
+      "Office Cleaning \u2013 Above 3000 sq.ft",
+      " Office Cleaning \u2013 Up to 1000 sq.ft",
+      "Septic Tank Cleaning",
+      "Sofa Cleaning",
+      "Swimming pool cleaning",
+      "Table Fan Cleaning",
+      "Tree/Plant Trimming",
+      "Upholstery Cleaning (Chairs, Small Sofa)",
+      "Villa Cleaning \u2013 Furnished",
+      "Villa Cleaning \u2013  Unfurnished",
+      "Wash Basin Cleaning",
+      "Washing Machine Cleaning \u2013 Front Load",
+      "Washing Machine Cleaning \u2013 Top Load",
+      "Water Tank Cleaning",
+      "Window Glass Cleaning"
+    ]
+  },
+  {
+    "name": "Computer & IT",
+    "services": [
+      "Consultation",
+      "Desktop Assemble",
+      "Desktop repairs",
+      "Firewall Installations",
+      "IT office setup ",
+      "Laptop rentals",
+      "Laptop repairs",
+      "Macbook repairs",
+      "Server repairs"
+    ]
+  },
+  {
+    "name": "Consultations & Therapy",
+    "services": [
+      "Doctor Home Visit",
+      "Mental Health Counseling",
+      "Nutrition Counseling",
+      "Physiotherapy",
+      "Speech Therapy",
+      "Telemedicine Consultation"
+    ]
+  },
+  {
+    "name": "Dj & Music",
+    "services": []
+  },
+  {
+    "name": "Documentation",
+    "services": [
+      "Consultation",
+      "Government Form Filling Services",
+      "Passport Application Help",
+      "Visa & Immigration Assistance"
+    ]
+  },
+  {
+    "name": "Driving and Licence",
+    "services": [
+      "Car Driving Lessons with Licence",
+      "Car Driving Lessons without Licence",
+      "Consultation",
+      "Four Wheeler Licence",
+      "Two Wheeler Licence"
+    ]
+  },
+  {
+    "name": "Electrical",
+    "services": [
+      "AC Repair",
+      "Ceiling Fan fitting",
+      "Consultation",
+      "Fan Fitting",
+      "Generator repair",
+      "Geyser Installation",
+      "Lightings",
+      "Panel Boards",
+      "Switches and Sockets",
+      "Switch Fitting",
+      "Wiring"
+    ]
+  },
+  {
+    "name": "Events and Parties",
+    "services": [
+      "Catering",
+      "Consultation",
+      "Decoration service",
+      "Engagement Event",
+      "Event Planning",
+      "Music and DJ Setup",
+      "Venue booking assistance",
+      "Video & Photography",
+      "Wedding planning"
+    ]
+  },
+  {
+    "name": "Furnishing",
+    "services": [
+      "Blinds",
+      "Carpets & Rugs",
+      "Consultation",
+      "Curtains",
+      "Sofa making"
+    ]
+  },
+  {
+    "name": "Home Appliances",
+    "services": [
+      "AC Gas Refilling",
+      "AC Repair",
+      "Air Fryer Repair",
+      "Air Purifier Repair",
+      "Blender Repair",
+      "Coffee Maker Repair",
+      "Deep Freezer Repair",
+      "Dishwasher Installation",
+      "Dishwasher Repair",
+      "Electrical Gas Stove Repair",
+      "Electric Chimney Installation",
+      "Electric Chimney Repair",
+      "Electric Grill Repair",
+      "Electric Heater Repair",
+      "Electric Iron Box Repair",
+      "Electric Kettle Repair",
+      "Exhaust Fan Installation",
+      "Exhaust Fan Repair",
+      "Food Processor Repair",
+      "Garbage Disposal Installation",
+      "Garbage Disposal Repair",
+      "Gas Stove Repair",
+      "Geyser Repair",
+      "Ice Maker Repair",
+      "Microwave Oven Repair",
+      "Mixer Grinder Repair",
+      "Pool Pump Repair",
+      "Portable AC Repair",
+      "Refrigerator Repair",
+      "Rice Cooker Repair",
+      "Robot Vacuum Repair",
+      "Smart TV Installation",
+      "Split AC Installation",
+      "Toaster Repair",
+      "Vacuum Cleaner Repair",
+      "Washing Machine Installation",
+      "Washing Machine Repair - Front Load",
+      "Washing Machine Repair - Top Load",
+      "Water Dispenser Repair",
+      "Water Purifier Installation",
+      "Water Purifier Repair",
+      "Window AC Installation"
+    ]
+  },
+  {
+    "name": "Home Automation",
+    "services": [
+      "Motion Sensor - Device with Installation",
+      "Motion Sensor Repair",
+      "Smart Alarm System Repair",
+      "Smart Curtains / Blinds - Device with Installation",
+      "Smart Curtains Repair",
+      "Smart Door Lock - Device with Installation",
+      "Smart Door Lock Repair",
+      "Smart Fan Controller Repair",
+      "Smart Garage Door Opener - Device with Installation",
+      "Smart Garage Door Opener Repair",
+      "Smart Irrigation Repair",
+      "Smart Irrigation System - Device with Installation",
+      "Smart Pool Controller (Device + Installation)",
+      "Smart Pool Controller Repair",
+      "Smart Smoke / CO Detector - Device with Installation",
+      "Smart Smoke / CO Detector Repair",
+      "Smart Thermostat (Device + Installation)",
+      "Smart Thermostat Repair",
+      "Smart Video Doorbell - Device with Installation",
+      "Smart Video Doorbell Repair",
+      "Surveillance Camera - Device and Installation",
+      "Surveillance Camera Repair",
+      "Voice Assistant Setup",
+      "Water Leak Detector Repair",
+      "Water Tank Fill Detector - Device with Installation"
+    ]
+  },
+  {
+    "name": "Home Diagnostics",
+    "services": [
+      "ECG at Home",
+      "Ultrasound at Home",
+      "X-ray at Home"
+    ]
+  },
+  {
+    "name": "Home Theater",
+    "services": [
+      "1080p Projector Installation",
+      "4k Projector Installation",
+      "5.1 Surround Sound Setup",
+      "7.1 Surround Sound Setup",
+      "Calibration Recheck & Repair",
+      "Dolby Atmos Setup",
+      "Motorized Projector Screen Setup",
+      "Motorized Screen Repair",
+      "Projector Repair Service",
+      "Projector Screen Installation",
+      "Screen Calibration for 1080p/4K",
+      "Sound Calibration for 5.1/7.1/Atmos",
+      "Surround Sound System Repair",
+      "Wireless Speaker Repair",
+      "Wireless Surround Sound Setup"
+    ]
+  },
+  {
+    "name": "Interior Designing",
+    "services": [
+      "Consultation",
+      "Farm Houses",
+      "Function Halls",
+      "Hotels",
+      "Office Spaces",
+      "Residential"
+    ]
+  }
+]

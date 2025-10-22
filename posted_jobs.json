@@ -1,0 +1,62 @@
+[
+  {
+    "category": "Assemble",
+    "service": "chimney assembly",
+    "rate": "N/A",
+    "customer": {
+      "name": "karthik",
+      "phone": "8074469657",
+      "address": "hyderabad"
+    },
+    "preferredDate": "10-12-25",
+    "preferredTime": "80:00AM"
+  },
+  {
+    "category": "Interior Designing",
+    "service": "Consultation",
+    "rate": "N/A",
+    "customer": {
+      "name": "karthik",
+      "phone": "8074469657",
+      "address": "hyderabad"
+    },
+    "preferredDate": "10-12-25",
+    "preferredTime": ""
+  },
+  {
+    "category": "Assemble",
+    "service": "chimney assembly",
+    "rate": 1600.0,
+    "customer": {
+      "name": "bunny",
+      "phone": "099809809",
+      "address": "asdd"
+    },
+    "preferredDate": "12-12-2020",
+    "preferredTime": "20"
+  },
+  {
+    "category": "Interior Designing",
+    "service": "Hotels",
+    "rate": 700.0,
+    "customer": {
+      "name": "kb",
+      "phone": "78978788009",
+      "address": "hyderabad"
+    },
+    "preferredDate": "10-20-30",
+    "preferredTime": "21:00"
+  },
+  {
+    "category": "Assemble",
+    "service": "chimney assembly",
+    "rate": 1600.0,
+    "customer": {
+      "name": "karthik",
+      "phone": "3743746",
+      "address": "syhygf"
+    },
+    "preferredDate": "123356",
+    "preferredTime": "12:00"
+  }
+]
